@@ -36,6 +36,14 @@ main {
   flex: 1;
   display: flex;
 }
+.endshowadcounter{
+
+  color: var(--dkClr);
+}
+.endshowadtitle{
+
+  color: var(--dkClr);
+}
 
 #gameCanvas {
   border: 1px solid red;
